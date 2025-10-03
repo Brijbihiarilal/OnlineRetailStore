@@ -1,5 +1,5 @@
 
-# Online Retail Store SQL + Streamlit Project
+# Online Retail Store SQL 
 
 ## 📌 Overview
 This project simulates an **online e-commerce store** database where customers can place orders for products, make payments, and track order status.
